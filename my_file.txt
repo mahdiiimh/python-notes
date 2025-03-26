@@ -1,0 +1,5 @@
+hello this is my file
+it is for test
+i want to learn working with files in python
+
+ new line is here added
